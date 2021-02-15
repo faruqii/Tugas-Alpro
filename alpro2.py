@@ -1,3 +1,6 @@
+# 1. Buatlah program entry sejumlah array (tergantung input user) dan cari nilai rata-rata dari nilai array yang diinputkan tersebut.
+# 2. Buat program entry sejumlah array (tergantung input user) dan cari nilai maksimum serta minimum dari nilai array yang diinputkan tersebut.
+
 list = []
 
 n = int(input("masukan jumlah data :"))
