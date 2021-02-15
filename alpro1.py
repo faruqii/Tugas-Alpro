@@ -5,5 +5,5 @@ kelas = input("kelas : ")
 hobi = input("hobi : ")
 suka = input("suka : ")
 
-print("Halo! Perkenalkan saya",nama "Saya berasal dari",asal 
-      "Jurusan saya di Telkom University adalah",jurusan "di kelas",kelas "saya mempunyai hobi",hobi "Saya tertarik kepada",suka "Salam Kenal teman-teman semua")
+print("halo! Perkenalkan saya",nama,"saya berasal dari",asal,
+      "jurusan saya di Telkom University adalah",jurusan,"di kelas",kelas,"saya mempunyai hobi",hobi,"saya tertarik kepada",suka,"salam Kenal teman-teman semua")
