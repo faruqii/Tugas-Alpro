@@ -1,2 +1,6 @@
 # Tugas-Alpro
-Sebuah tugas algoritma pemrograman mahasiswa semester 2 
+
+
+```
+sebuah tugas algoritma pemrograman mahasiswa semester 2 
+```
