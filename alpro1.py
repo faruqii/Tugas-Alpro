@@ -1,3 +1,5 @@
+# Buatlah program biodata menggunakan string formating
+
 nama = input("Nama : ")
 asal = input("Asal : ")
 jurusan = input("Jurusan : ")
