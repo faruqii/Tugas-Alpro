@@ -10,6 +10,8 @@ for i in range(0, n):
 
     list.append(element)
 
+list.sort()
+
 sum = sum(list)
 length = len(list)
 
