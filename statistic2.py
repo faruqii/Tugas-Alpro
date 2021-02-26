@@ -6,9 +6,9 @@ list = []
 n = int(input("masukan jumlah data :"))
 
 for i in range(0, n):
-    element = int(input())
+    nilai = int(input())
 
-    list.append(element)
+    list.append(nilai)
     
 list.sort()
 average = statistics.mean(list)
